@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+a{
+    color: inherit!important;
+    text-decoration: none!important;
+}
+
+.movies{
+    padding-top: 40px;
+}
+
+.film-item{
+    margin-top: 50px;
+    box-shadow: 0 0 5px 4px #0000001f;
+    padding: 40px;
+    background: #e6e6e670;
+    color: #4e4e4e;
+}
+
+.film-item .desc{
+    text-align: justify;
+}
+
+.links{
+    color: #606263;
+    font-weight: 600;
+    font-size: 18px;
+    display: block;
+}
+
+.links a{
+    padding: 5px 30px;
+}
